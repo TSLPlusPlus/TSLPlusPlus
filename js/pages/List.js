@@ -7,11 +7,11 @@ import Spinner from "../components/Spinner.js";
 import LevelAuthors from "../components/List/LevelAuthors.js";
 
 const roleIconMap = {
-    owner: "../../../TSLPlusPlus/assets/crown",
-    admin: "../../../TSLPlusPlus/assets/user-gear",
-    helper: "../../../TSLPlusPlus/assets/user-shield",
-    dev: "../../../TSLPlusPlus/assets/code",
-    trial: "../../../TSLPlusPlus/assets/user-lock",
+    owner: "https://tslplusplus.github.io/TSLPlusPlus/assets/crown",
+    admin: "https://tslplusplus.github.io/TSLPlusPlus/assets/user-gear",
+    helper: "https://tslplusplus.github.io/TSLPlusPlus/assets/user-shield",
+    dev: "https://tslplusplus.github.io/TSLPlusPlus/assets/code",
+    trial: "https://tslplusplus.github.io/TSLPlusPlus/assets/user-lock",
 };
 
 export default {
