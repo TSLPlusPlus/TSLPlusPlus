@@ -1,12 +1,12 @@
 [
     {
         "role": "owner",
-        "name": "MinBin",
+        "name": "[101] MinBin",
         "link": "https://www.youtube.com/@MinBinGMD"
     },
     {
         "role": "admin",
-        "name": "MinBin",
+        "name": "[101] MinBin",
         "link": "https://www.youtube.com/@MinBinGMD"
     },
     {
@@ -26,7 +26,7 @@
     },
     {
         "role": "dev",
-        "name": "MinBin",
+        "name": "[101] MinBin",
         "link": "https://www.youtube.com/@MinBinGMD"
     }
 ]

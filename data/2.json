@@ -1,0 +1,18 @@
+{
+    "id": 138370919,
+    "name": "Shitty Slaughterhouse",
+    "author": "AcropolisBoy",
+    "creators": ["AcropolisBoy", "[101] MinBin"],
+    "verifier": "[TCD] DoggieDasher",
+    "verification": "https://www.youtube.com/watch?v=wxaW3zKx_nw",
+    "percentToQualify": "70",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "[101] MinBin",
+            "link": "https://www.youtube.com/@MinBinGMD",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
